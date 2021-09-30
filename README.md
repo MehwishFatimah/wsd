@@ -3,7 +3,8 @@
 
 
 ## Dataset ##
-- The dataset can be downloaded from [here](https://wsd.h-its.org/).
+- Monolingual dataset can be downloaded from [here](https://wsd.h-its.org/).
+- Cross-lingual dataset can be downloaded from [here](https://wsd.h-its.org/).
 - This repository contains the dataset introduced in the following paper: [A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization]() 
 
 ## Reference ##

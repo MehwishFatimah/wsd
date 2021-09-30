@@ -4,15 +4,15 @@
 
 ## Dataset ##
 - The dataset can be downloaded from [here](https://wsd.h-its.org/).
-- This repository contains the dataset introduced in the following paper: [A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization]() 
+- This repository contains the dataset introduced in the following paper: [A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization]() 
 
 ## Reference ##
 Please cite the following paper: 
 ```
 @inproceedings{fatima2021,
-    title={A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization},
+    title={A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization},
     author={Mehwish Fatima, Michael Strube},
-    booktitle={},
+    booktitle={Proceedings of the 3rd Workshop on New Frontiers in Summarization},
     year={2021}
 }
 ```

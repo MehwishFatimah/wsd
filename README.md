@@ -1,2 +1,23 @@
-# wsd
-Wikipedia Summarization Dataset
+# WSD - Wikipedia Summarization Dataset #
+
+
+
+## Dataset ##
+- The dataset can be downloaded from [here](https://wsd.h-its.org/).
+- This repository contains the dataset introduced in the following paper: [A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization]() 
+
+## Reference ##
+Please cite the following paper: 
+```
+@inproceedings{fatima2021,
+    title={A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization},
+    author={Mehwish Fatima, Michael Strube},
+    booktitle={},
+    year={2021}
+}
+```
+
+## License ##
+
+- This dataset is released under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) for the summarization community. 
+- Refer to [this webpage](https://en.wikipedia.org/wiki/Creative_Commons_license) for the specific attribution guidelines. 

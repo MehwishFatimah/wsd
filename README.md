@@ -22,3 +22,9 @@ Please cite the following paper:
 
 - This dataset is released under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) for the summarization community. 
 - Refer to [this webpage](https://en.wikipedia.org/wiki/Creative_Commons_license) for the specific attribution guidelines. 
+
+## Corresponding Author ##
+
+If you have any queries, please contact: 
+
+<b>Mehwish Fatima</b> (mehwish.fatima@h-its.org)

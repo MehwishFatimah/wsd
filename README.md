@@ -5,7 +5,7 @@
 ## Dataset ##
 - Monolingual dataset can be downloaded from [here](https://wsd.h-its.org/wms.zip).
 - Cross-lingual dataset can be downloaded from [here](https://wsd.h-its.org/wcls.zip).
-- This repository contains the dataset introduced in the following paper: A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization
+- This repository contains the dataset introduced in the following paper: [A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization](https://aclanthology.org/2021.newsum-1.5/)
 
 ## Reference ##
 Please cite the following paper: 
